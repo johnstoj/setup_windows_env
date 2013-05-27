@@ -1,0 +1,16 @@
+cyg-get
+PuTTY
+Wget
+PsTools
+FoxitReader
+Fiddler
+Firefox
+GoogleChrome-AllUsers
+Git
+Hg
+SublimeText2.app
+Meld
+Ruby 1.9.3.37400
+Pik
+VirtualBox
+GIMP
